@@ -1,7 +1,7 @@
 <template>
 <h1>{{ msg }}</h1>
 
-<div>
+<div class="mb-4">
 <p>３人で集まる日を決めるためのアプリ。</p>
 </div>
 
