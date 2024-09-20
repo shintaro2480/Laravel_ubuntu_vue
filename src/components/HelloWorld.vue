@@ -1,9 +1,11 @@
 <template>
 <h1>{{ msg }}</h1>
 
+<div>
 <p>３人で集まる日を決めるためのアプリ。</p>
+</div>
 
-<a href="/">ログイン</a>
+<!-- <a href="/">ログイン</a> -->
 
 
 </template>

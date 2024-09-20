@@ -8,8 +8,14 @@
     <router-view />
   </div>
 
-//  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="JST飲み会決定アプリ"/>
+  
+
+  <v-btn prepend-icon="$vuetify" variant="tonal">
+    Button
+  </v-btn>
+
 </template>
 
 <script>
